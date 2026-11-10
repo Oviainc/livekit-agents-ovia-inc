@@ -1,3 +1,11 @@
+![Ovia Inc — LiveKit Agents: a framework for building realtime voice AI agents](.github/banner_light.png)
+
+> **Ovia Inc fork** — We maintain this fork of [livekit/agents](https://github.com/livekit/agents), LiveKit's framework for building realtime voice AI agents — the open-source Agents SDK for Python and Node.js, built on WebRTC infrastructure, for agents that listen, speak, and see in real time.
+>
+> **Story:** voice is where our agent work meets the telephone network, and LiveKit is one of the two frameworks the whole field builds on. A voice agent that answers a business line lives or dies on latency, turn-taking, and interruption handling — exactly the layer this framework owns. The fork sits on the voice shelf beside Pipecat for evaluation against the receptionist-grade workloads we know well. Upstream credit: LiveKit. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
+---
+
 <!--BEGIN_BANNER_IMAGE-->
 
 <picture>
